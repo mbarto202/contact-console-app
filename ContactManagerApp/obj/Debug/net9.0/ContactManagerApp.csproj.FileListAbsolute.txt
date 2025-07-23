@@ -1,0 +1,15 @@
+/Users/michaelbarto/workspace/contact-console-app/ContactManagerApp/bin/Debug/net9.0/ContactManagerApp
+/Users/michaelbarto/workspace/contact-console-app/ContactManagerApp/bin/Debug/net9.0/ContactManagerApp.deps.json
+/Users/michaelbarto/workspace/contact-console-app/ContactManagerApp/bin/Debug/net9.0/ContactManagerApp.runtimeconfig.json
+/Users/michaelbarto/workspace/contact-console-app/ContactManagerApp/bin/Debug/net9.0/ContactManagerApp.dll
+/Users/michaelbarto/workspace/contact-console-app/ContactManagerApp/bin/Debug/net9.0/ContactManagerApp.pdb
+/Users/michaelbarto/workspace/contact-console-app/ContactManagerApp/obj/Debug/net9.0/ContactManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelbarto/workspace/contact-console-app/ContactManagerApp/obj/Debug/net9.0/ContactManagerApp.AssemblyInfoInputs.cache
+/Users/michaelbarto/workspace/contact-console-app/ContactManagerApp/obj/Debug/net9.0/ContactManagerApp.AssemblyInfo.cs
+/Users/michaelbarto/workspace/contact-console-app/ContactManagerApp/obj/Debug/net9.0/ContactManagerApp.csproj.CoreCompileInputs.cache
+/Users/michaelbarto/workspace/contact-console-app/ContactManagerApp/obj/Debug/net9.0/ContactManagerApp.sourcelink.json
+/Users/michaelbarto/workspace/contact-console-app/ContactManagerApp/obj/Debug/net9.0/ContactManagerApp.dll
+/Users/michaelbarto/workspace/contact-console-app/ContactManagerApp/obj/Debug/net9.0/refint/ContactManagerApp.dll
+/Users/michaelbarto/workspace/contact-console-app/ContactManagerApp/obj/Debug/net9.0/ContactManagerApp.pdb
+/Users/michaelbarto/workspace/contact-console-app/ContactManagerApp/obj/Debug/net9.0/ContactManagerApp.genruntimeconfig.cache
+/Users/michaelbarto/workspace/contact-console-app/ContactManagerApp/obj/Debug/net9.0/ref/ContactManagerApp.dll
